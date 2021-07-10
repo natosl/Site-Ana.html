@@ -1,0 +1,116 @@
+ body {
+ 	background: #d2d2c1 url('imagens/fundo.png');
+ 	font: 16px Arial, Helvetica, sans-serif;
+ }
+ #principal: {
+ 	width: 900px;
+ }
+ #header-2 {
+	background-color: #c5c5b2;	
+	width: 864px;
+	padding: 18px;
+ }
+#menu {
+	background: #c5c5b2;
+	padding: 18px;
+}
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 5px;
+}
+ #aninha {
+ 	background: #ffffff;
+ 	text-align: left;
+ 	padding: 16px;
+ 	width: 868px;
+ 	font-family: Verdana, sans-serif;
+ }
+ #direitos {
+ 	text-align: center;
+ 	text-transform: uppercase;
+ 	width: 870px;
+ 	font-family: Verdana, sans-serif;
+ }
+ #contato {
+ 	background: white;
+ 	width: 876px;
+ 	padding: 12px;
+ }
+ #foto {
+ 	background: white;
+ 	width: 870px;
+ 	border-width: thin;
+ }
+ #bio {
+ 	background: white;
+ 	width: 868px;
+ 	padding: 16px;
+ }
+ h2{
+ 	font-weight: bold;
+ 	font-size: 15px;
+ }
+ #numero {
+ 	padding: 3px;
+ }
+ h1 {
+ 	color: #828271;
+ 	font-size: 1.2em;
+ }
+ #conteudo-campanha {
+ 	background: white;
+ 	width: 876px;
+ 	padding: 12px;
+ }
+ .img-campanha {
+ 	border: 10px solid #c3c3ae;
+ }
+ .img-contato {
+ 	border: 10px solid #c3c3ae;
+ }
+ .container {
+    width: 100vw;
+    height: 100vh;
+    background: blue;
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    width: 300px;
+    height: 353px; 
+    background: #FFFFF0;
+}
+body {
+    margin: 0px;
+} 
+#meu {
+    text-align: center;
+    font: 100% sans-serif;
+    width: 70%;
+    margin: 5%;
+    padding: 30px;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    font-family: "`Palatino Linotype",
+    "Book Antiqua", Palatino, serif;
+    height: 45px;    
+}
+.mano {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 5px;
+}
+
+    
